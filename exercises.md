@@ -31,7 +31,7 @@ Construct the *confident belt* CI at 90% and 68% CL considering a counting exper
 - What is the CI at 90% CL? And for $b=3$ and $x_0 = 1$?
 - Test the coverage of the CI at 90% CL in this example. Consider $b=2$ and $\mu_{true} = 2$.
 
-**Choose 2 among the following 3 exercises:**
+**Choose 2 among the exercises 2b, 2c and 2d:**
 
 #### Exercise 2b:
 Verify that the flip-flop problem has not the proper coverage.
@@ -47,7 +47,7 @@ Compare the classical and frequentist interval, where they differ? where they ar
 **Prepare a total of 3 exercises.**
 
 #### Exercise 3a: 
-Verify that the $q_0$ distribution is a 'half'-$\chi^2$."
+Verify that the $q_0$ distribution is a 'half'-$\chi^2$.
 
 **Choose one among 3b and 3c.**
 
