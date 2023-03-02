@@ -47,7 +47,7 @@ Compare the classical and frequentist interval, where they differ? where they ar
 **Prepare a total of 3 exercises.**
 
 #### Exercise 3a: 
-Verify that the $q_0$ distribution is a 'half'-$\chi^2$.
+Verify that the $q_0$ distribution is a 'half' $\chi^2$.
 
 **Choose one among 3b and 3c.**
 
@@ -55,7 +55,7 @@ Verify that the $q_0$ distribution is a 'half'-$\chi^2$.
  Consider the case of a poisson distribution with a unknown mean $\mu$ and the null hypothesis $\mu_0$. Check for which values of $\mu$, $g(t_\mu | \mu)$ follows a $\chi^2(1)$ distribution.
 
 #### Exercise 3c:
-Consider the case of an experiment that get a sample of n-size poisson disbruted values, $x$, with a unknown mean $\mu$. Check the values of $n$ for whose $g(t_\mu | \mu)$ follows a $\chi^2(1)$ distribution."
+Consider the case of an experiment that get a sample of n-size poisson disbruted values, $x$, with a unknown mean $\mu$. Check the values of $n$ for whose $g(t_\mu | \mu)$ follows a $\chi^2(1)$ distribution.
 
 **Choose one among 3d, 3e and 3f.**
 
@@ -63,7 +63,7 @@ Consider the case of an experiment that get a sample of n-size poisson disbruted
 Consider an experiment with a gaussian distribution with mean $\mu$ and sigma 1. Consider $\mu_{true} = \mu_0 = 0$. Obtain the distribution of the upper limits at 90 %CL.
 
 #### Exercise 3e:
-Consider a experiment with a $n$ sample of gaussian distributed values with $\mu$ and sigma 1. Consider $\mu_{true} = \mu = 3.5$, verify that $q_\mu$ follows a half-$\chi^2$ distribution with one dof.
+Consider a experiment with a $n$ sample of gaussian distributed values with $\mu$ and sigma 1. Consider $\mu_{true} = \mu = 3.5$, verify that $q_\mu$ follows a "half" $\chi^2$ distribution with one dof.
 
 #### Exercise 3f:
 First, we check that the pdf, $g( t_\mu | \mu, \nu)$ is a $\chi^2(2)$ with two dof, and $g(t_\mu | \mu, \hat{\nu}(\mu))$ a $\chi^2(1)$ with one dof.
